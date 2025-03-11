@@ -2,7 +2,7 @@
 <h3 align="center">i dunno what im doing :3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roseis404&label=Profile%20views&color=0e75b6&style=flat" alt="roseis404" /> </p>
-<p align="left"> <a href="https://twitter.com/roseis404" target="blank"><img src="https://img.shields.io/twitter/follow/roseis404?logo=twitter&style=for-the-badge" alt="roseis404" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sharkgirlrose" target="blank"><img src="https://img.shields.io/twitter/follow/roseis404?logo=twitter&style=for-the-badge" alt="roseis404" /></a> </p>
 
 - 📫 How to reach me -> **[Discord](https://discord.com/users/1240837862723813417)**
 
